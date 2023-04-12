@@ -1,0 +1,22 @@
+p {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+/* This is a comment */
+body {
+  margin: 0;
+  margin-bottom: 1000px;
+  padding-top: 80px;
+  padding-left: 96px;
+  padding-right: 24px;
+
+  background-color: rgb(250, 249, 249);
+  font-family: Roboto, Arial;
+}
+
+@media (min-width: 1200.1px) {
+  body {
+    padding-left: 290px;
+  }
+}
